@@ -1,11 +1,11 @@
 # Site settings
-author: Maria Connie Sanchez
-title: 
+author: Connie Sanchez
+title: Following my dreams
 header-img: img/home-bg.png
 email: msnchz04@gmail.com
-copyright_name: Maria Connie Sanchez
+copyright_name: Connie Sanchez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  What it took to overcome my hurdles
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: CSProd19
 github_username:  CSProd19
