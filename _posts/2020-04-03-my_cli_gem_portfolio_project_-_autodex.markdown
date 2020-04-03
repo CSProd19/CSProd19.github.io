@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My CLI Gem Portfolio Project - Autodex"
-date:       2020-04-03 05:44:12 +0000
+date:       2020-04-03 01:44:13 -0400
 permalink:  my_cli_gem_portfolio_project_-_autodex
 ---
 
