@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Data Types in Ruby"
-date:       2020-05-27 06:41:47 +0000
+date:       2020-05-27 02:41:48 -0400
 permalink:  data_types_in_ruby
 ---
 
